@@ -239,6 +239,10 @@
 10mail.org
 10minutemail.com
 10minut.info
+discord.com
+gateway.discord.gg
+cdn.discordapp.com
+discordapp.net
 10musa.com.ua
 10-online-cazinos.site
 10orca88.com
